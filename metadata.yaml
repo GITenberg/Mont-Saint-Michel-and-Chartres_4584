@@ -1,0 +1,35 @@
+_repo: Mont-Saint-Michel-and-Chartres_4584
+creator:
+  author:
+    agent_name: Adams, Henry
+    alias: Adams, Henry Brooks
+    birthdate: 1838
+    deathdate: 1918
+    gutenberg_agent_id: '798'
+    url: http://www.gutenberg.org/2009/agents/798
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Brooks_Adams
+description: 'From the Back Cover: Mont Saint Michel and Chartres is a record not
+  of a literal journey but of a meditative journey across time and space into the
+  medieval imagination. Using the architecture, sculpture, and stained glass of the
+  two locales as a starting point, Adams breathes life into what others might see
+  merely as monuments of a past civilization. With daring and inventive conceits,
+  Adams looks at the ordinary people, places, and events in the context of the social
+  conventions and systems of thought and belief of the thirteenth century, turning
+  the study of history into a kind of theater. As Raymond Carney discusses in his
+  introduction, Adam''s freedom from the European traditions of study lends exuberance-and
+  puckish wit-to his writings.'
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Medieval'
+- !lcsh 'Mont-Saint-Michel (Abbey : France)'
+- !lcc 'DC'
+- !lcsh 'Cathédrale de Chartres'
+title: Mont-Saint-Michel and Chartres
+url: http://www.gutenberg.org/ebooks/4584
