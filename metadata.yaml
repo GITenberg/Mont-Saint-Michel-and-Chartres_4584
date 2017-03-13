@@ -1,5 +1,8 @@
 _repo: Mont-Saint-Michel-and-Chartres_4584
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, Henry
@@ -19,6 +22,8 @@ description: 'From the Back Cover: Mont Saint Michel and Chartres is a record no
   the study of history into a kind of theater. As Raymond Carney discusses in his
   introduction, Adam''s freedom from the European traditions of study lends exuberance-and
   puckish wit-to his writings.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4584#Mont-Saint-Michel-and-Chartres
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
 identifiers:
