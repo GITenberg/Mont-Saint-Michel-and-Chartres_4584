@@ -1,5 +1,5 @@
 _repo: Mont-Saint-Michel-and-Chartres_4584
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Mont-Saint-Michel (Abbey : France)'
 - !lcc 'DC'
 - !lcsh 'Cathédrale de Chartres'
+- GITenberg
 title: Mont-Saint-Michel and Chartres
 url: http://www.gutenberg.org/ebooks/4584
